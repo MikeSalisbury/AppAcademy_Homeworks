@@ -1,0 +1,27 @@
+.logo img{
+  width: 50px;
+  height: 50px;
+}
+
+.footer-div {
+  display: flex;
+  justify-content: space-around;
+}
+
+.list-title {
+  font-weight: bold;
+}
+
+li {
+  list-style: circle;
+}
+
+header {
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+body {
+  padding: 20px;
+}
